@@ -1,0 +1,336 @@
+Title,Year,Director
+Inception,2010,Christopher Nolan
+The Matrix,1999,Lana Wachowski
+Interstellar,2014,Christopher Nolan
+The Godfather,1972,Francis Ford Coppola
+The Dark Knight,2008,Christopher Nolan
+Pulp Fiction,1994,Quentin Tarantino
+Fight Club,1999,David Fincher
+Forrest Gump,1994,Robert Zemeckis
+The Shawshank Redemption,1994,Frank Darabont
+The Lord of the Rings: The Fellowship of the Ring,2001,Peter Jackson
+The Lord of the Rings: The Two Towers,2002,Peter Jackson
+The Lord of the Rings: The Return of the King,2003,Peter Jackson
+The Silence of the Lambs,1991,Jonathan Demme
+Schindler's List,1993,Steven Spielberg
+Saving Private Ryan,1998,Steven Spielberg
+Gladiator,2000,Ridley Scott
+The Prestige,2006,Christopher Nolan
+Memento,2000,Christopher Nolan
+Titanic,1997,James Cameron
+Avatar,2009,James Cameron
+The Avengers,2012,Joss Whedon
+Avengers: Endgame,2019,Anthony and Joe Russo
+Spider-Man: No Way Home,2021,Jon Watts
+Black Panther,2018,Ryan Coogler
+Iron Man,2008,Jon Favreau
+Star Wars: A New Hope,1977,George Lucas
+Star Wars: The Empire Strikes Back,1980,Irvin Kershner
+Star Wars: Return of the Jedi,1983,Richard Marquand
+Jurassic Park,1993,Steven Spielberg
+E.T. the Extra-Terrestrial,1982,Steven Spielberg
+Back to the Future,1985,Robert Zemeckis
+The Lion King,1994,Roger Allers and Rob Minkoff
+Frozen,2013,Chris Buck and Jennifer Lee
+Toy Story,1995,John Lasseter
+Coco,2017,Lee Unkrich and Adrian Molina
+Inside Out,2015,Pete Docter
+Up,2009,Pete Docter and Bob Peterson
+The Incredibles,2004,Brad Bird
+Finding Nemo,2003,Andrew Stanton
+Ratatouille,2007,Brad Bird
+The Social Network,2010,David Fincher
+Gone Girl,2014,David Fincher
+Se7en,1995,David Fincher
+The Curious Case of Benjamin Button,2008,David Fincher
+The Wolf of Wall Street,2013,Martin Scorsese
+Goodfellas,1990,Martin Scorsese
+The Irishman,2019,Martin Scorsese
+Taxi Driver,1976,Martin Scorsese
+Casino,1995,Martin Scorsese
+Shutter Island,2010,Martin Scorsese
+The Departed,2006,Martin Scorsese
+American Psycho,2000,Mary Harron
+No Country for Old Men,2007,Joel and Ethan Coen
+Fargo,1996,Joel and Ethan Coen
+The Big Lebowski,1998,Joel and Ethan Coen
+A Clockwork Orange,1971,Stanley Kubrick
+2001: A Space Odyssey,1968,Stanley Kubrick
+The Shining,1980,Stanley Kubrick
+Full Metal Jacket,1987,Stanley Kubrick
+Dr. Strangelove,1964,Stanley Kubrick
+Blade Runner,1982,Ridley Scott
+Blade Runner 2049,2017,Denis Villeneuve
+Dune,2021,Denis Villeneuve
+Arrival,2016,Denis Villeneuve
+Prisoners,2013,Denis Villeneuve
+Sicario,2015,Denis Villeneuve
+The Truman Show,1998,Peter Weir
+Dead Poets Society,1989,Peter Weir
+Whiplash,2014,Damien Chazelle
+La La Land,2016,Damien Chazelle
+Parasite,2019,Bong Joon-ho
+Snowpiercer,2013,Bong Joon-ho
+Memories of Murder,2003,Bong Joon-ho
+The Handmaiden,2016,Park Chan-wook
+Oldboy,2003,Park Chan-wook
+Train to Busan,2016,Yeon Sang-ho
+The Host,2006,Bong Joon-ho
+Her,2013,Spike Jonze
+Lost in Translation,2003,Sofia Coppola
+The Grand Budapest Hotel,2014,Wes Anderson
+Moonrise Kingdom,2012,Wes Anderson
+Fantastic Mr. Fox,2009,Wes Anderson
+The French Dispatch,2021,Wes Anderson
+Life of Pi,2012,Ang Lee
+Brokeback Mountain,2005,Ang Lee
+Crouching Tiger, Hidden Dragon,2000,Ang Lee
+Slumdog Millionaire,2008,Danny Boyle
+127 Hours,2010,Danny Boyle
+The Revenant,2015,Alejandro González Iñárritu
+Birdman,2014,Alejandro González Iñárritu
+Babel,2006,Alejandro González Iñárritu
+Amélie,2001,Jean-Pierre Jeunet
+City of God,2002,Fernando Meirelles and Kátia Lund
+Pan's Labyrinth,2006,Guillermo del Toro
+The Shape of Water,2017,Guillermo del Toro
+Hellboy,2004,Guillermo del Toro
+Pacific Rim,2013,Guillermo del Toro
+The Hunger Games,2012,Gary Ross
+Catching Fire,2013,Francis Lawrence
+Mockingjay – Part 1,2014,Francis Lawrence
+Mockingjay – Part 2,2015,Francis Lawrence
+Mad Max: Fury Road,2015,George Miller
+Mad Max,1979,George Miller
+Mad Max 2: The Road Warrior,1981,George Miller
+Mad Max Beyond Thunderdome,1985,George Miller
+The Terminator,1984,James Cameron
+Terminator 2: Judgment Day,1991,James Cameron
+True Lies,1994,James Cameron
+Aliens,1986,James Cameron
+The Abyss,1989,James Cameron
+Alien,1979,Ridley Scott
+Prometheus,2012,Ridley Scott
+Alien: Covenant,2017,Ridley Scott
+The Sixth Sense,1999,M. Night Shyamalan
+Unbreakable,2000,M. Night Shyamalan
+Signs,2002,M. Night Shyamalan
+The Village,2004,M. Night Shyamalan
+Split,2016,M. Night Shyamalan
+Glass,2019,M. Night Shyamalan
+The Hunger Games: The Ballad of Songbirds and Snakes,2023,Francis Lawrence
+The Twilight Saga: Twilight,2008,Catherine Hardwicke
+The Twilight Saga: New Moon,2009,Chris Weitz
+The Twilight Saga: Eclipse,2010,David Slade
+The Twilight Saga: Breaking Dawn – Part 1,2011,Bill Condon
+The Twilight Saga: Breaking Dawn – Part 2,2012,Bill Condon
+Harry Potter and the Philosopher's Stone,2001,Chris Columbus
+Harry Potter and the Chamber of Secrets,2002,Chris Columbus
+Harry Potter and the Prisoner of Azkaban,2004,Alfonso Cuarón
+Harry Potter and the Goblet of Fire,2005,Mike Newell
+Harry Potter and the Order of the Phoenix,2007,David Yates
+Harry Potter and the Half-Blood Prince,2009,David Yates
+Harry Potter and the Deathly Hallows – Part 1,2010,David Yates
+Harry Potter and the Deathly Hallows – Part 2,2011,David Yates
+Fantastic Beasts and Where to Find Them,2016,David Yates
+Fantastic Beasts: The Crimes of Grindelwald,2018,David Yates
+Fantastic Beasts: The Secrets of Dumbledore,2022,David Yates
+Twister,1996,Jan de Bont
+Speed,1994,Jan de Bont
+The Fast and the Furious,2001,Rob Cohen
+2 Fast 2 Furious,2003,John Singleton
+The Fast and the Furious: Tokyo Drift,2006,Justin Lin
+Fast & Furious,2009,Justin Lin
+Fast Five,2011,Justin Lin
+Fast & Furious 6,2013,Justin Lin
+Furious 7,2015,James Wan
+The Fate of the Furious,2017,F. Gary Gray
+F9: The Fast Saga,2021,Justin Lin
+Fast X,2023,Louis Leterrier
+Joker,2019,Todd Phillips
+The Batman,2022,Matt Reeves
+Batman Begins,2005,Christopher Nolan
+The Dark Knight Rises,2012,Christopher Nolan
+Batman v Superman: Dawn of Justice,2016,Zack Snyder
+Justice League,2017,Zack Snyder
+Zack Snyder's Justice League,2021,Zack Snyder
+Man of Steel,2013,Zack Snyder
+Wonder Woman,2017,Patty Jenkins
+Wonder Woman 1984,2020,Patty Jenkins
+Aquaman,2018,James Wan
+Shazam!,2019,David F. Sandberg
+Shazam! Fury of the Gods,2023,David F. Sandberg
+Black Adam,2022,Jaume Collet-Serra
+Suicide Squad,2016,David Ayer
+The Suicide Squad,2021,James Gunn
+Guardians of the Galaxy,2014,James Gunn
+Guardians of the Galaxy Vol. 2,2017,James Gunn
+Guardians of the Galaxy Vol. 3,2023,James Gunn
+Doctor Strange,2016,Scott Derrickson
+Doctor Strange in the Multiverse of Madness,2022,Sam Raimi
+Thor,2011,Kenneth Branagh
+Thor: The Dark World,2013,Alan Taylor
+Thor: Ragnarok,2017,Taika Waititi
+Thor: Love and Thunder,2022,Taika Waititi
+Captain America: The First Avenger,2011,Joe Johnston
+Captain America: The Winter Soldier,2014,Anthony and Joe Russo
+Captain America: Civil War,2016,Anthony and Joe Russo
+Ant-Man,2015,Peyton Reed
+Ant-Man and the Wasp,2018,Peyton Reed
+Ant-Man and the Wasp: Quantumania,2023,Peyton Reed
+The Eternals,2021,Chloé Zhao
+Shang-Chi and the Legend of the Ten Rings,2021,Destin Daniel Cretton
+Spider-Man: Homecoming,2017,Jon Watts
+Spider-Man: Far From Home,2019,Jon Watts
+Spider-Man: Into the Spider-Verse,2018,Bob Persichetti, Peter Ramsey, Rodney Rothman
+Spider-Man: Across the Spider-Verse,2023,Joaquim Dos Santos, Kemp Powers, Justin K. Thompson
+Deadpool,2016,Tim Miller
+Deadpool 2,2018,David Leitch
+Logan,2017,James Mangold
+X-Men,2000,Bryan Singer
+X2: X-Men United,2003,Bryan Singer
+X-Men: The Last Stand,2006,Brett Ratner
+X-Men: First Class,2011,Matthew Vaughn
+X-Men: Days of Future Past,2014,Bryan Singer
+X-Men: Apocalypse,2016,Bryan Singer
+Dark Phoenix,2019,Simon Kinberg
+The New Mutants,2020,Josh Boone
+The Lego Movie,2014,Phil Lord and Christopher Miller
+The Lego Batman Movie,2017,Chris McKay
+The Lego Movie 2: The Second Part,2019,Mike Mitchell
+The Social Network,2010,David Fincher
+Fight Club,1999,David Fincher
+Se7en,1995,David Fincher
+Gone Girl,2014,David Fincher
+The Girl with the Dragon Tattoo,2011,David Fincher
+Zodiac,2007,David Fincher
+Pulp Fiction,1994,Quentin Tarantino
+Reservoir Dogs,1992,Quentin Tarantino
+Kill Bill: Vol. 1,2003,Quentin Tarantino
+Kill Bill: Vol. 2,2004,Quentin Tarantino
+Django Unchained,2012,Quentin Tarantino
+Once Upon a Time in Hollywood,2019,Quentin Tarantino
+Inglourious Basterds,2009,Quentin Tarantino
+The Hateful Eight,2015,Quentin Tarantino
+Sin City,2005,Frank Miller and Robert Rodriguez
+Sin City: A Dame to Kill For,2014,Frank Miller and Robert Rodriguez
+300,2006,Zack Snyder
+300: Rise of an Empire,2014,Noam Murro
+Gladiator,2000,Ridley Scott
+Kingdom of Heaven,2005,Ridley Scott
+Robin Hood,2010,Ridley Scott
+Exodus: Gods and Kings,2014,Ridley Scott
+The Last Duel,2021,Ridley Scott
+House of Gucci,2021,Ridley Scott
+The Martian,2015,Ridley Scott
+The Wolf of Wall Street,2013,Martin Scorsese
+Shutter Island,2010,Martin Scorsese
+Raging Bull,1980,Martin Scorsese
+Taxi Driver,1976,Martin Scorsese
+Goodfellas,1990,Martin Scorsese
+Casino,1995,Martin Scorsese
+The Irishman,2019,Martin Scorsese
+Silence,2016,Martin Scorsese
+Hugo,2011,Martin Scorsese
+Cape Fear,1991,Martin Scorsese
+Gravity,2013,Alfonso Cuarón
+Children of Men,2006,Alfonso Cuarón
+Roma,2018,Alfonso Cuarón
+Y Tu Mamá También,2001,Alfonso Cuarón
+The Shape of Things,2003,Neil LaBute
+The Impossible,2012,J.A. Bayona
+A Monster Calls,2016,J.A. Bayona
+Jurassic World: Fallen Kingdom,2018,J.A. Bayona
+Jurassic World Dominion,2022,Colin Trevorrow
+Jurassic World,2015,Colin Trevorrow
+Jurassic Park,1993,Steven Spielberg
+The Lost World: Jurassic Park,1997,Steven Spielberg
+Jurassic Park III,2001,Joe Johnston
+E.T. the Extra-Terrestrial,1982,Steven Spielberg
+Jaws,1975,Steven Spielberg
+Schindler's List,1993,Steven Spielberg
+Saving Private Ryan,1998,Steven Spielberg
+Catch Me If You Can,2002,Steven Spielberg
+The Post,2017,Steven Spielberg
+West Side Story,2021,Steven Spielberg
+The Fabelmans,2022,Steven Spielberg
+Close Encounters of the Third Kind,1977,Steven Spielberg
+War of the Worlds,2005,Steven Spielberg
+The Adventures of Tintin,2011,Steven Spielberg
+Ready Player One,2018,Steven Spielberg
+Minority Report,2002,Steven Spielberg
+A.I. Artificial Intelligence,2001,Steven Spielberg
+Big Fish,2003,Tim Burton
+Edward Scissorhands,1990,Tim Burton
+Beetlejuice,1988,Tim Burton
+Sleepy Hollow,1999,Tim Burton
+Sweeney Todd: The Demon Barber of Fleet Street,2007,Tim Burton
+Corpse Bride,2005,Tim Burton
+Frankenweenie,2012,Tim Burton
+Charlie and the Chocolate Factory,2005,Tim Burton
+Alice in Wonderland,2010,Tim Burton
+Dumbo,2019,Tim Burton
+The Nightmare Before Christmas,1993,Henry Selick
+Coraline,2009,Henry Selick
+Kubo and the Two Strings,2016,Travis Knight
+ParaNorman,2012,Chris Butler and Sam Fell
+The Boxtrolls,2014,Graham Annable and Anthony Stacchi
+Chicken Run,2000,Nick Park and Peter Lord
+Wallace & Gromit: The Curse of the Were-Rabbit,2005,Nick Park and Steve Box
+Shaun the Sheep Movie,2015,Mark Burton and Richard Starzak
+Flushed Away,2006,David Bowers and Sam Fell
+How to Train Your Dragon,2010,Chris Sanders and Dean DeBlois
+How to Train Your Dragon 2,2014,Dean DeBlois
+How to Train Your Dragon: The Hidden World,2019,Dean DeBlois
+Kung Fu Panda,2008,Mark Osborne and John Stevenson
+Kung Fu Panda 2,2011,Jennifer Yuh Nelson
+Kung Fu Panda 3,2016,Jennifer Yuh Nelson and Alessandro Carloni
+The Croods,2013,Kirk DeMicco and Chris Sanders
+The Croods: A New Age,2020,Joel Crawford
+Trolls,2016,Mike Mitchell
+Trolls World Tour,2020,Walt Dohrn and David P. Smith
+Frozen,2013,Chris Buck and Jennifer Lee
+Frozen II,2019,Chris Buck and Jennifer Lee
+Moana,2016,Ron Clements and John Musker
+Zootopia,2016,Byron Howard and Rich Moore
+Encanto,2021,Jared Bush and Byron Howard
+Raya and the Last Dragon,2021,Don Hall and Carlos López Estrada
+Coco,2017,Lee Unkrich and Adrian Molina
+Inside Out,2015,Pete Docter
+Soul,2020,Pete Docter and Kemp Powers
+Luca,2021,Enrico Casarosa
+Turning Red,2022,Domee Shi
+Toy Story,1995,John Lasseter
+Toy Story 2,1999,John Lasseter
+Toy Story 3,2010,Lee Unkrich
+Toy Story 4,2019,Josh Cooley
+Monsters, Inc.,2001,Pete Docter
+Monsters University,2013,Dan Scanlon
+Finding Nemo,2003,Andrew Stanton
+Finding Dory,2016,Andrew Stanton and Angus MacLane
+The Incredibles,2004,Brad Bird
+Incredibles 2,2018,Brad Bird
+Ratatouille,2007,Brad Bird
+WALL-E,2008,Andrew Stanton
+Brave,2012,Mark Andrews and Brenda Chapman
+Up,2009,Pete Docter and Bob Peterson
+A Bug's Life,1998,John Lasseter and Andrew Stanton
+Onward,2020,Dan Scanlon
+Lightyear,2022,Angus MacLane
+Cars,2006,John Lasseter
+Cars 2,2011,John Lasseter
+Cars 3,2017,Brian Fee
+Planes,2013,Klay Hall
+Planes: Fire & Rescue,2014,Roberts Gannaway
+Big Hero 6,2014,Don Hall and Chris Williams
+Wreck-It Ralph,2012,Rich Moore
+Ralph Breaks the Internet,2018,Rich Moore and Phil Johnston
+The Secret Life of Pets,2016,Chris Renaud
+The Secret Life of Pets 2,2019,Chris Renaud
+Sing,2016,Garth Jennings
+Sing 2,2021,Garth Jennings
+Despicable Me,2010,Pierre Coffin and Chris Renaud
+Despicable Me 2,2013,Pierre Coffin and Chris Renaud
+Despicable Me 3,2017,Pierre Coffin and Kyle Balda
+Minions,2015,Pierre Coffin and Kyle Balda
+Minions: The Rise of Gru,2022,Kyle Balda
